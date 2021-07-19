@@ -1,0 +1,25 @@
+{
+  "name": "males-nulis",
+  "version": "1.0.0",
+  "description": "Cocok Buat Kalian yang Males Nulis Di Kertas Folio",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Males",
+    "Nulis",
+    "Bot",
+    "Tulis",
+    "Mager",
+    "Nulis",
+    "Koler",
+    "Nulis"
+  ],
+  "author": "Muhammad Imamul Azmi <imamul.azmi48@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^3.5.2",
+    "lodash": "^4.17.21"
+  }
+}
